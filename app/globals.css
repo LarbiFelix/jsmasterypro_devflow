@@ -2,13 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-/* body {
-    font-family: 'Inter', sans-serif;
+body {
+  font-family: "Inter", sans-serif;
 }
 
 :root {
-    --radius: 8px;
-} */
+  --radius: 8px;
+}
 
 @layer utilities {
   .background-light850_dark100 {
